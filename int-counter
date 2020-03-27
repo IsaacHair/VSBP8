@@ -507,6 +507,7 @@ void setup() {
 
   digitalWrite(52, HIGH);
   digitalWrite(53, LOW);
+  1;
 
   for (i = 0; i < 52; i++)
     pinMode(i, INPUT);
